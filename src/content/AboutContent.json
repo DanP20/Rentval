@@ -1,15 +1,15 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Fast & Responsive",
+  "text": "Rentvl is ready to use, so you don't need to change anything - simply list your property and we will do the rest.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Schufa",
+      "content": "Only tenants with a valid Shufa will be approved for applications.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Earnings",
+      "content": "Tenants with rental percentage matching will be approved for applications. ",
       "icon": "notes.svg"
     }
   ]
